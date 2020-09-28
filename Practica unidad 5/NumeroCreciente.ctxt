@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=NumeroCreciente
+comment1.params=numero
+comment1.target=java.lang.String\ numeroCreciente(int)
+numComments=2
