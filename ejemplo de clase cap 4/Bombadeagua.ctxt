@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bombadeagua
+comment1.params=
+comment1.target=Bombadeagua()
+comment2.params=
+comment2.target=void\ bombear()
+comment3.params=
+comment3.target=int\ cantVecesBombear()
+comment4.params=turril
+comment4.target=void\ conectarTurril(Turril)
+comment5.params=tanque
+comment5.target=void\ conectarTanque(TanqueAgua)
+numComments=6

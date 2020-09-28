@@ -1,0 +1,13 @@
+Una vez a la semana pasa el aguadero por la zona y compramos el agua en turriles, cada turril tiene una capacidad de 210L. Tambien en lo mas alto del tejado teemos un tanque de agua el cual puede almacenar hasta 950L.Para poder cargar agua al tanque se usa una bomba,la cual por cada "bombeo" que realiza transporta 7L de agua.
+
+se pide lo siguiente:
+
+=> cual es la canitdd de turriles que necesita el tanque para llenarse?
+
+=> cuantas veces se debe "bombear" para que un turril quede vacio?
+
+=> los constructores de la/las clases  que identificaste
+
+=>implementar el metodo "bombear" de tal manera que se note como el agua va del turril al tanque.
+
+modelar la solucion del problema e implementar todos los metodos necesarios para que el programa funcione.
