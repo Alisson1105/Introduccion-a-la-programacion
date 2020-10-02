@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FragmentoDeNelthari
+comment1.params=numero1\ numero2
+comment1.target=int\ fragmentodeNelthari(int,\ int)
+comment2.params=num1
+comment2.target=int\ SumaDeDigitosDePrimerNumero(int)
+numComments=3
