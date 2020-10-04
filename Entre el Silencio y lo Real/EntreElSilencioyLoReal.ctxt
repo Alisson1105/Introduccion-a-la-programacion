@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EntreElSilencioyLoReal
+comment1.params=numero\ numero2
+comment1.target=java.lang.String\ entreElSilencioyLoReal(int,\ double)
+comment2.params=num\ num2
+comment2.target=double\ decimal(int,\ double)
+comment3.params=n\ n2
+comment3.target=double\ numeroDecimalNuevo(int,\ double)
+comment4.params=nume\ nume2
+comment4.target=double\ entero(int,\ double)
+comment5.params=numeroN\ numeroN2
+comment5.target=int\ numEnteroNuevo(int,\ double)
+numComments=6
