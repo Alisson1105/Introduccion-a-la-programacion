@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TabernaDeLosSue\u00F1osCaidos
+comment1.params=n
+comment1.target=TabernaDeLosSue\u00F1osCaidos(int)
+comment2.params=nuevo
+comment2.target=java.lang.String\ almacenar(Sue\u00F1o)
+comment3.params=posicion
+comment3.target=java.lang.String\ eliminar(int)
+comment4.params=nombre
+comment4.target=java.lang.String\ buscar(java.lang.String)
+comment5.params=lista
+comment5.target=Sue\u00F1o\ sue\u00F1osAlmacenados(Sue\u00F1o)
+numComments=6
