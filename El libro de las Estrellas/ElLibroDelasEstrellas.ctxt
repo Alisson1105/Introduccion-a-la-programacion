@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ElLibroDelasEstrellas
+comment1.params=arreglo
+comment1.target=int[]\ elLibroDelasEstrellas(int[])
+comment2.params=arreglo
+comment2.target=int\ impar(int[])
+comment3.params=arreglo
+comment3.target=int\ par(int[])
+numComments=4
