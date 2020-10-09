@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AlOtroLadoDelVortice
+comment1.params=arreglo
+comment1.target=java.lang.String\ alOtroLadoDelVortice(int[])
+comment2.params=arreglo
+comment2.target=int\ buscarmenor(int[])
+comment3.params=arreglo
+comment3.target=int\ buscarmayor(int[])
+numComments=4
