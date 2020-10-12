@@ -22,9 +22,5 @@ public class Fecha
     public int getAño(){
         return año;
     }
-    
-    /* public String fecha(){
-        String resp =dia+"/"+mes+"/"+ año;
-        return resp;
-    }*/
+  
 }
