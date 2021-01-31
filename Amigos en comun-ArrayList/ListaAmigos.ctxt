@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ListaAmigos
+comment1.params=nombre\ nombre2
+comment1.target=ListaAmigos(java.lang.String,\ java.lang.String)
+comment2.params=otro
+comment2.target=void\ agregar1(Amigo)
+comment3.params=
+comment3.target=void\ mostarLista1()
+comment4.params=otro
+comment4.target=void\ agregar2(Amigo2)
+comment5.params=
+comment5.target=void\ mostarLista2()
+comment6.params=
+comment6.target=void\ mismoAmigo()
+numComments=7
